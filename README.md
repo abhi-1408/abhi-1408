@@ -26,15 +26,15 @@
 
 
 <p align="center" >
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="100"/> 
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="100"/>
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="90" height="100"/>
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="100"/>
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
   
 
