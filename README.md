@@ -39,11 +39,9 @@
   
 
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-1408&show_icons=true" alt="abhi-1408" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-1408&count_private=true&show_icons=true" alt="abhi-1408" />  
   
 </p>
-
-
 
 
 
