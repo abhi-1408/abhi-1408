@@ -1,15 +1,12 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> नमस्ते (Namaste), I'm Abhishek</h1>  
+<h1 align="center"><img src="https://user-images.githubusercontent.com/58034490/141352762-6a73a10e-0ace-4fc0-a472-c36460c16e55.gif" width="30"/> नमस्ते (Namaste), I'm Abhishek</h1>  
 
-<p align="center">Welcome to my page! </br> Fullstack developer from <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="20"/> <b>India</b>, <br/>currently living in <img src="https://image.flaticon.com/icons/svg/2322/2322510.svg" width="13"/> <b>Delhi</b>. </p>
+<p align="center">Welcome to my page! </br> Fullstack developer from <img src="https://user-images.githubusercontent.com/58034490/141352478-2f51458a-30a7-40f3-a21d-acc117abb870.png" width="20"/> <b>India</b>, <br/>currently living in <img src="https://user-images.githubusercontent.com/58034490/141353060-fda2ca34-db8c-42d2-9b82-7ac9c77476ff.png" width="20"/> <b>Delhi</b>. </p>
 
 
 
- 
-
-  
 
 <p align="center">
-<img width = "400px" src= "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+<img width = "400px" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif"/>
 </p>
 
 ----
@@ -25,16 +22,18 @@
   <p><b>Things i code with</b></p>
 
 
+
+
 <p align="center" >
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+<img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" width="70" alt="js">
+<img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" alt="css3" width="50" height="70"/> 
+<img src="https://user-images.githubusercontent.com/58034490/141354526-d99b2765-709e-40ad-8ffa-505aed03dc38.gif" width="70" alt="python">
+<img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" alt="html5" width="70" height="70"/>
+<img src="https://user-images.githubusercontent.com/58034490/141354520-61dc7946-9fb0-4088-9bf9-4e4041b21a09.gif" width="70" alt="react">
+<img src="https://user-images.githubusercontent.com/58034490/141353056-f5f5cd6f-73ac-44cb-81b9-4338d296d869.png" alt="redux" width="70" height="70"/>
+<img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" width="70" alt="github">
+<img src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" alt="mysql" width="80" height="60"/>
+<img src="https://user-images.githubusercontent.com/58034490/141354818-8c186650-e4fa-4463-9690-e8f91893dfa2.gif" width="70" alt="vs">
    </p> 
   
 
