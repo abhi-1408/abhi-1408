@@ -44,8 +44,7 @@
 
 
 
-
 - 📫 Reach me at **saklani1408@gmail.com**  ||  <a href="https://linkedin.com/in/saklani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saklani" height="20" width="20" /></a> 
 
-
+Find some blogs that I have written @medium <a href="https://medium.com/@saklani1408" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58034490/191093701-1ee7b5fc-5163-402f-9179-2567d9c38769.png" atl="saklani1408" height="30" width="30"/></a>
 
